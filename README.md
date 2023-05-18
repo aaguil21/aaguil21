@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
 </div>
-<img src="Andres.gif"/>
+<img class=gif src="AndresHeader.gif"/>
 
 
 
