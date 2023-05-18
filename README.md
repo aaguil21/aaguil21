@@ -1,9 +1,6 @@
 ## Hello There!
 
-
-<div id="header" align="center">
-</div>
-<img class=gif src="AndresHeader.gif"/>
+<img src="AndresHeader.gif"/>
 
 
 
