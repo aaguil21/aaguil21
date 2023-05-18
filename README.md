@@ -1,8 +1,10 @@
 ## Hello There!
 
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  <img src="Andres.gif"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andres-aguilar-85877a165/">
