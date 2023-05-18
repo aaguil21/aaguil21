@@ -2,8 +2,9 @@
 
 
 <div id="header" align="center">
-  <img src="Andres.gif"/>
 </div>
+<img src="Andres.gif"/>
+
 
 
 <div id="badges" align="center">
