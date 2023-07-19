@@ -13,7 +13,7 @@
  ---
  
  ### :technologist: About Me
- - I am an aspiring Data Scientist
+ - I'm a Data Scientist
  - I am working on projects to increase my statistical knowledge
  - I have a masters in Physics, so I love learning about the world
  - In my free time, I enjoy learning new languages
